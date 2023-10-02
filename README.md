@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, there 🙋🏻‍♀️
 
-<!--
-**acbarbeta/acbarbeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ana Clara, a Brazilian developer
 
-Here are some ideas to get you started:
+- 🎓 I'm graduated in Materials Engineer, but I'm currently working as a software developer at Inspira Tecnologia, in São Paulo
+- 😺 My pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+[![Static Badge](https://img.shields.io/badge/TWITTER-black?style=for-the-badge&logo=twitter&logoColor=black&labelColor=ffeedd&link=https%3A%2F%2Ftwitter.com%2Fanacbarbeta)
+](https://twitter.com/anacbarbeta)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=ffeedd&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanaclara-barbeta%2F)
+](https://www.linkedin.com/in/anaclara-barbeta/)
+
+## 💻 Techs
+
+### I work with:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=70hv/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=70hv />  
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height=70hv />  
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height=70hv />  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=70hv/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=70hv /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height=70hv />
+
+### Currently learning:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=50hv />
+          
+## 📈 About my GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acbarbeta&layout=compact&theme=date_night)
