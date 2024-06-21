@@ -2,7 +2,7 @@
 
 I'm Ana Clara, a Brazilian developer
 
-- 🎓 I'm graduated in Materials Engineer, but I'm currently working as a software developer at Inspira Tecnologia, in São Paulo
+- 🎓 I'm graduated in Materials Engineer, but I'm currently working as a software developer at B3, in São Paulo
 - 😺 My pronouns: she/her
 
 ## 📫 How to reach me
